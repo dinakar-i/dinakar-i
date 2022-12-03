@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dinakar-i
+- 👋 Hi, I’m @dinakar
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Android developer
 - 📫 How to reach me : dinakar_i@yahoo.com
