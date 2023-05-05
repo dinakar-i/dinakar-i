@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Dinakar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinakar-i&label=Profile%20views&color=0e75b6&style=flat" alt="dinakar-i" /> </p>
+<h3 align="center">A passionate Programmer & Innovative Person.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinakar-i" alt="dinakar-i" /></a> </p>
 
+- 🌱 I’m currently learning **Competitive programming**
+
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/dinakar/home](https://sites.google.com/view/dinakar/home)
+
+- 💬 Ask me about **Java,OOPs,Hacking**
+
+- 📫 How to reach me **dinakar_i@yahoo.com**
+
+- ⚡ Fun fact **Give me Some time to Think.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dinakar m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinakar m" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dinakar-m-3b56531b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinakar-m-3b56531b9" height="30" width="40" /></a>
 <a href="https://instagram.com/dinakar_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinakar_i" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cbot-online course" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cbot-online course" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dinakar_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dinakar_i" height="30" width="40" /></a>
