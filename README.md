@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Competitive programming(Java)**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/dinakar/home](https://sites.google.com/view/dinakar/home)
+- 👨‍💻 My Portfolio [dinakar-i.github.io](https://sites.google.com/view/dinakar/home)
 
 - 💬 Ask me about **Java,OOPs,Hacking**
 
