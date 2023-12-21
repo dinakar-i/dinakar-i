@@ -8,11 +8,11 @@
 
 - 👨‍💻Portfolio [Of Dinakar](http://dinakar-i.github.io/)
 
-- 💬 Ask me about **Java,OOPs,Hacking**
+- 💬 Ask me about **Java,OOPs,SDE,DSA**
 
 - 📫 How to reach me **dinakar_i@yahoo.com**
 
-- ⚡ Fun fact **Give me Some time to Think.**
+- ⚡ Fun fact **Give Some time to Think.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
