@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/dinakar-m-3b56531b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinakar-m-3b56531b9" height="30" width="40" /></a>
 <a href="https://instagram.com/dinakar_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinakar_i" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cbot-online course" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cbot-online course" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dinakar_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dinakar_i" height="30" width="40" /></a>
 </p>
 
