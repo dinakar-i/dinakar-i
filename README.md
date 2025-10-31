@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinakar</h1>
-<h3 align="center">A passionate Programmer & Innovative Person.</h3>
+<h3 align="center">A passionate Programmer & Trying to Entrepreneur.</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinakar-i" alt="dinakar-i" /></a> </p> -->
 
