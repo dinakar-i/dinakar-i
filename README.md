@@ -26,5 +26,21 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinakar-i&show_icons=true&locale=en&layout=compact" alt="dinakar-i" /></p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dinakar-m-3b56531b9" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinakar-m-3b56531b9" height="30" width="40" />
+</a>
+<a href="https://instagram.com/dinakar_i" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinakar_i" height="30" width="40" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/dinakar_i" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dinakar_i" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/dinakar_i/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="dinakar_i" height="30" width="40" />
+</a>
+</p>
+
 <!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinakar-i&show_icons=true&locale=en" alt="dinakar-i" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinakar-i&" alt="dinakar-i" /></p>
