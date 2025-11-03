@@ -30,11 +30,5 @@
   <img src="https://leetcard.jacoblin.cool/dinakar_i?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-</a>
-<a href="https://leetcode.com/u/dinakar_i/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="dinakar_i" height="30" width="40" />
-</a>
-</p>
-
 <!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinakar-i&show_icons=true&locale=en" alt="dinakar-i" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinakar-i&" alt="dinakar-i" /></p>
