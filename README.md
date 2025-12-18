@@ -13,23 +13,23 @@ Currently working on real-time analytics, leaderboards, and scheduling systems.
 ## 🧠 Tech Stack
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)](https://angular.io)
+[![React](https://img.shields.io/badge/React-20232A?logo=react)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![RxJS](https://img.shields.io/badge/RxJS-B7178C?logo=reactivex)](https://rxjs.dev)
 
 ### Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Web_API-5C2D91)
-![Hangfire](https://img.shields.io/badge/Hangfire-000000)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet)](https://dotnet.microsoft.com)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![ASP.NET](https://img.shields.io/badge/ASP.NET_Web_API-5C2D91)](https://learn.microsoft.com/en-us/aspnet/core/web-api/)
+[![Hangfire](https://img.shields.io/badge/Hangfire-000000)](https://www.hangfire.io)
 
 ### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)](https://www.mongodb.com)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)](https://azure.microsoft.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)](https://aws.amazon.com)
 
 ---
 
@@ -57,8 +57,14 @@ Currently working on real-time analytics, leaderboards, and scheduling systems.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinakar-i&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinakar-i&layout=compact&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinakar-i&show_icons=true&theme=tokyonight)](https://github.com/dinakar-i)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinakar-i&layout=compact&theme=tokyonight)](https://github.com/dinakar-i?tab=repositories)
+
+---
+
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dinakar_i?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/dinakar_i)
 
 ---
 
@@ -69,8 +75,7 @@ Currently working on real-time analytics, leaderboards, and scheduling systems.
 - Advanced Angular signals & state management  
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/dinakar_i?theme=dark&font=Baloo&ext=heatmap)
----
+
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/dinakar-m-3b56531b9)
