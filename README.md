@@ -69,7 +69,8 @@ Currently working on real-time analytics, leaderboards, and scheduling systems.
 - Advanced Angular signals & state management  
 
 ---
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/dinakar_i?theme=dark&font=Baloo&ext=heatmap)
+---
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/dinakar-m-3b56531b9)
