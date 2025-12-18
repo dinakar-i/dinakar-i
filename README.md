@@ -62,12 +62,6 @@ Currently working on real-time analytics, leaderboards, and scheduling systems.
 
 ---
 
-## 🔥 Contribution Graph
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dinakar-i&theme=tokyonight)
-
----
-
 ## 🌱 Currently Improving
 
 - System design & scalability  
